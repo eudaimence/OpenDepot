@@ -1,28 +1,24 @@
 # OpenDepot
 
-**Legend:**
-- **Branch Name:** APPID
-- **Branch Contents:** Manifest(s) (files containing game data) & Decryption Keys (keys for accessing that data)
+**Légende :**
+- **Nom de la branche :** APPID
+- **Contenu de la branche :** Manifestes (fichiers contenant les données du jeu) et Clés de décryptage (clés pour accéder à ces données)
 
-You can find APPIDs at [SteamDB](https://steamdb.info).
+Vous pouvez trouver les APPID sur [SteamDB](https://steamdb.info).
 
-## Localisations
-I currently only support English. Please create an issue to suggest **accuracy** updates for the localisation of this README. <br> 
-Localisations are currently done with the utilization of "AI", and we all know the "accuracy" of AI...
+### Avertissement
+Ce projet est conçu uniquement à des fins éducatives et d'information. Tout le contenu de ce dépôt est destiné à des fins de référence uniquement.  
+Les utilisateurs doivent faire preuve de prudence et de discernement lors de l'utilisation de ce matériel, car les pertes ou problèmes résultant de son utilisation ne sont pas de la responsabilité de l'auteur ou des contributeurs.  
+**Moi, eudaimence, j'encourage chacun à soutenir la plateforme Steam et ses développeurs en respectant le droit d'auteur et en achetant des jeux.**
 
-### Disclaimer
-This project is designed solely for educational and informational purposes. All content in this repository is intended for reference only.  
-Users should exercise caution and discretion when using this material, as any losses or issues arising from its use are not the responsibility of the author or contributors.  
-**I, eudaimence, encourage everyone to support the Steam platform and its developers by respecting copyright and purchasing games.**
+## Remerciements
+- [@BlankTMing](https://github.com/BlankTMing) (mainteneur de ManifestAutoUpdate, inspiration pour OpenDepot)
+- [@pjy612](https://github.com/pjy612/) (mainteneur de SteamManifestCache, base de ce README)
 
-## Acknowledgments
-- [@BlankTMing](https://github.com/BlankTMing) (maintainer of ManifestAutoUpdate, inspiration for OpenDepot)
-- [@pjy612](https://github.com/pjy612/) (maintainer of SteamManifestCache, basis of README)
-
-<sub>Pseudonyms listed in alphabetical order.</sub>
+<sub>Pseudonymes listés par ordre alphabétique.</sub>
 
 ## Discussions
-Join the conversation [here](https://github.com/pjy612/SteamManifestCache/discussions).
+Rejoignez la conversation [ici](https://github.com/pjy612/SteamManifestCache/discussions).
 
-## Wiki Documentation
-For documentation, please visit the **[Wiki](https://github.com/eudaimence/OpenDepot/wiki)**.
+## Documentation Wiki
+Pour la documentation, veuillez visiter le **[Wiki](https://github.com/eudaimence/OpenDepot/wiki)**.
