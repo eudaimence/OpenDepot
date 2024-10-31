@@ -1,28 +1,28 @@
 # OpenDepot
 
-**Legend:**
-- **Branch Name:** APPID
-- **Branch Contents:** Manifest(s) (files containing game data) & Decryption Keys (keys for accessing that data)
+**说明：**
+- **分支名称：** APPID
+- **分支内容：** 清单（包含游戏数据的文件）和解密密钥（访问这些数据的密钥）
 
-You can find APPIDs at [SteamDB](https://steamdb.info).
+您可以在 [SteamDB](https://steamdb.info) 找到 APPID。
 
-## Localisations
-I currently only support English. Please create an issue to suggest **accuracy** updates for the localisation of this README. <br> 
-Localisations are currently done with the utilization of "AI", and we all know the "accuracy" of AI...
+## 本地化
+我目前只支持英语。如果您有建议，请创建一个问题以更新此 README 的 **准确性**。<br>
+本地化目前是使用“人工智能”完成的，我们都知道人工智能的“准确性”...
 
-### Disclaimer
-This project is designed solely for educational and informational purposes. All content in this repository is intended for reference only.  
-Users should exercise caution and discretion when using this material, as any losses or issues arising from its use are not the responsibility of the author or contributors.  
-**I, eudaimence, encourage everyone to support the Steam platform and its developers by respecting copyright and purchasing games.**
+### 免责声明
+本项目仅用于教育和信息目的。此存储库中的所有内容仅供参考。  
+用户在使用此材料时应谨慎行事，因使用而导致的任何损失或问题均不由作者或贡献者负责。  
+**我，eudaimence，鼓励大家通过尊重版权和购买游戏来支持 Steam 平台及其开发者。**
 
-## Acknowledgments
-- [@BlankTMing](https://github.com/BlankTMing) (maintainer of ManifestAutoUpdate, inspiration for OpenDepot)
-- [@pjy612](https://github.com/pjy612/) (maintainer of SteamManifestCache, basis of README)
+## 鸣谢
+- [@BlankTMing](https://github.com/BlankTMing)（ManifestAutoUpdate 的维护者，OpenDepot 的灵感来源）
+- [@pjy612](https://github.com/pjy612/)（SteamManifestCache 的维护者，README 的基础）
 
-<sub>Pseudonyms listed in alphabetical order.</sub>
+<sub>化名按字母顺序列出。</sub>
 
-## Discussions
-Join the conversation [here](https://github.com/pjy612/SteamManifestCache/discussions).
+## 讨论
+在 [这里](https://github.com/pjy612/SteamManifestCache/discussions) 加入讨论。
 
-## Wiki Documentation
-For documentation, please visit the **[Wiki](https://github.com/eudaimence/OpenDepot/wiki)**.
+## Wiki 文档
+有关文档，请访问 **[Wiki](https://github.com/eudaimence/OpenDepot/wiki)**。
